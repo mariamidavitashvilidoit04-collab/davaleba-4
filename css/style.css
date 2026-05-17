@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(255, 235, 248);
+}
+
+.profile {
+  height: 242pxpx;
+  width: 330px;
+  background-color: #fff;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
+}
+
+.image-1 {
+  width: 330;
+  height: 160;
+}
+.name {
+  font-size: 16px;
+  color: #32343a;
+}
+.user {
+  padding: 20px 152px 16px 20px;
+}
+
+.image-2,
+.name {
+  display: inline;
+}
+.info {
+  line-height: normal;
+  padding: 0px 20px 20px 20px;
+}
+.behavior {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: Bold;
+  color: #32343a;
+}
+.research {
+  font-size: 16px;
+  color: #71747b;
+}
+.btn {
+  margin-top: 10px;
+  border: none;
+  background-color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1b54fe;
+}
